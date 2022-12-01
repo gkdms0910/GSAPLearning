@@ -13,6 +13,7 @@
     width: 1080px;
     margin: 0 auto;
     margin-top: 30px;
+    margin-bottom: 30px;
     display: flex;
 }
 
@@ -42,5 +43,24 @@
 .block1_3 {
     width: 100%;
     height: 250px;
+    background-color: lightblue;
+}
+
+.block2_1 {
+    width: 100%;
+    height: 150px;
+    margin-bottom: 30px;
+    background-color: lightblue;
+}
+
+.block2_2 {
+    width: 100%;
+    height: 630px;
+    background-color: lightblue;
+}
+
+.footer {
+    width: 100%;
+    height: 60px;
     background-color: lightblue;
 }
