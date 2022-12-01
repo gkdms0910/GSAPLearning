@@ -27,8 +27,8 @@
       #d9a87e var(--split),
       #8c4c35 var(--split)
     );
-    background-size: 100%;
-    background-clip: text;
+    -webkit-background-size: 100%;
+    -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
     -moz-text-fill-color: transparent;
