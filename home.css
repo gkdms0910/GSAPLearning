@@ -27,7 +27,7 @@
       #d9a87e var(--split),
       #8c4c35 var(--split)
     );
-    -webkit-background-size: 100%;
+    background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -50,4 +50,3 @@
     letter-spacing: 0.02em;
     display: block;
   }
-  
